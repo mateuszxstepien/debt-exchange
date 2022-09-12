@@ -1,0 +1,48 @@
+.navbar {
+  color: #fff;
+  background-color: #003054;
+  text-transform: uppercase;
+  font-weight: bold;
+  padding-top: 5vh;
+  padding-left: 7vw;
+  padding-bottom: 5vh;
+
+  p {
+    font-size: 13px;
+    margin-bottom: 2vh;
+  }
+
+  input {
+    font-weight: bold;
+    border: none;
+    border-radius: none;
+    min-height: 7vh;
+    min-width: 31vw;
+  }
+
+  input[type="text"] {
+    font-size: 13px;
+  }
+
+  input:focus {
+    background-color: #ffff00;
+  }
+
+  button {
+    color: #fff;
+    background-color: #e40321;
+    font-size: 13px;
+    text-transform: uppercase;
+    font-weight: bold;
+    border: none;
+    min-height: 7vh;
+    min-width: 11vw;
+    cursor: pointer;
+  }
+
+  .info {
+    color: #e40321;
+    height: 1vh;
+    margin-top: 1vh;
+  }
+}
