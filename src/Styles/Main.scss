@@ -20,10 +20,10 @@
       color: #d3d3d3;
       text-transform: uppercase;
       font-size: 12px;
-      padding-top: 2vh;
-      padding-bottom: 2vh;
-      padding-left: 1vw;
-      padding-right: 1vw;
+      padding: 2vh 1vw;
+    }
+    th:hover {
+      background-color: #e40321;
     }
     td {
       padding: 3vh 1vw;
@@ -34,8 +34,8 @@
       text-align: left;
     }
     tr:hover {
-      background-color: #003054;
       color: #fff;
+      background-color: #003054;
     }
     .mobile-head {
       display: none;

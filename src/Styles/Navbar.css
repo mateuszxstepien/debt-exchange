@@ -15,11 +15,13 @@
   font-weight: bold;
   border: none;
   border-radius: none;
-  min-height: 7vh;
-  min-width: 31vw;
+  height: 6vh;
+  min-height: 40px;
+  min-width: 29vw;
 }
 .navbar input[type=text] {
   font-size: 13px;
+  padding: 0vh 1vw;
 }
 .navbar input:focus {
   background-color: #ffff00;
@@ -31,9 +33,13 @@
   text-transform: uppercase;
   font-weight: bold;
   border: none;
-  min-height: 7vh;
+  height: 6vh;
+  min-height: 40px;
   min-width: 11vw;
   cursor: pointer;
+}
+.navbar button:hover {
+  background-color: #c2001a;
 }
 .navbar .info {
   color: #e40321;

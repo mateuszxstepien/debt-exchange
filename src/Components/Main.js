@@ -28,14 +28,18 @@ const Main = (props) => {
       <table>
         <thead>
           <tr className="tr">
-            <th>
-              <i className="sort" onClick={props.click}>
-                dłużnik ▼
-              </i>
+            <th className="sort" onClick={props.clickSortName}>
+              dłużnik ▼
             </th>
-            <th>nip</th>
-            <th>kwota zadłużenia</th>
-            <th>data powstania zobowiązania</th>
+            <th className="sort" onClick={props.clickSortNip}>
+              nip
+            </th>
+            <th className="sort" onClick={props.clickSortValue}>
+              kwota zadłużenia
+            </th>
+            <th className="sort" onClick={props.clickSortDate}>
+              data powstania zobowiązania
+            </th>
           </tr>
         </thead>
         <tbody>{users}</tbody>

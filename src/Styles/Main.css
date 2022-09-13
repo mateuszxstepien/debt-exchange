@@ -18,10 +18,10 @@
   color: #d3d3d3;
   text-transform: uppercase;
   font-size: 12px;
-  padding-top: 2vh;
-  padding-bottom: 2vh;
-  padding-left: 1vw;
-  padding-right: 1vw;
+  padding: 2vh 1vw;
+}
+.main table th:hover {
+  background-color: #e40321;
 }
 .main table td {
   padding: 3vh 1vw;
@@ -32,8 +32,8 @@
   text-align: left;
 }
 .main table tr:hover {
-  background-color: #003054;
   color: #fff;
+  background-color: #003054;
 }
 .main table .mobile-head {
   display: none;
