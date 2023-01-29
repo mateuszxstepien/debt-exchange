@@ -3,11 +3,11 @@ import "../Styles/App.css";
 import Navbar from "./Navbar";
 import Main from "./Main";
 
-const GETAPI =
-  "http://rekrutacja-webhosting.it.krd.pl/api/Recruitment/GetTopDebts";
+const GETAPI = "data/api.json";
+// "http://rekrutacja-webhosting.it.krd.pl/api/Recruitment/GetTopDebts";
 
-const POSTAPI =
-  "http://rekrutacja-webhosting.it.krd.pl/api/Recruitment/GetFilteredDebts";
+const POSTAPI ="data/api.json"
+  // "http://rekrutacja-webhosting.it.krd.pl/api/Recruitment/GetFilteredDebts";
 
 class App extends Component {
   state = {
