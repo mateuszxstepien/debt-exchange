@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/debt-exchange/static/css/main.0689aeaa.css",
+    "main.js": "/debt-exchange/static/js/main.10741323.js",
+    "index.html": "/debt-exchange/index.html",
+    "main.0689aeaa.css.map": "/debt-exchange/static/css/main.0689aeaa.css.map",
+    "main.10741323.js.map": "/debt-exchange/static/js/main.10741323.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0689aeaa.css",
+    "static/js/main.10741323.js"
+  ]
+}

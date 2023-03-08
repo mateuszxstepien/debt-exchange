@@ -1,0 +1,72 @@
+[
+  {
+    "Id": 1,
+    "Name": "Artur Witkowski",
+    "NIP": 1569149679,
+    "Value": 1100,
+    "Date": "2022-08-01"
+  },
+  {
+    "Id": 2,
+    "Name": "Kordian Zieliński",
+    "NIP": 1114376413,
+    "Value": 2500,
+    "Date": "2022-09-20"
+  },
+  {
+    "Id": 3,
+    "Name": "Milan Sawicki",
+    "NIP": 3413933354,
+    "Value": 900,
+    "Date": "2022-08-13"
+  },
+  {
+    "Id": 4,
+    "Name": "Marta Cieślak",
+    "NIP": 5690554924,
+    "Value": 3900,
+    "Date": "2022-07-30"
+  },
+  {
+    "Id": 5,
+    "Name": "Natalia Brzezińska",
+    "NIP": 5674847749,
+    "Value": 4000,
+    "Date": "2022-08-16"
+  },
+  {
+    "Id": 6,
+    "Name": "Lila Laskowska",
+    "NIP": 1579809108,
+    "Value": 2000,
+    "Date": "2022-10-06"
+  },
+  {
+    "Id": 7,
+    "Name": "Olga Kowalska",
+    "NIP": 5212738842,
+    "Value": 1300,
+    "Date": "2022-08-30"
+  },
+  {
+    "Id": 8,
+    "Name": "Marek Przybylski",
+    "NIP": 5232040719,
+    "Value": 900,
+    "Date": "2022-09-09"
+  },
+  {
+    "Id": 9,
+    "Name": "Magdalena Walczak",
+    "NIP": 1151143531,
+    "Value": 400,
+    "Date": "2022-09-02"
+  },
+  {
+    "Id": 10,
+    "Name": "Leszek Borkowski",
+    "NIP": 3418427963,
+    "Value": 5000,
+    "Date": "2022-08-10"
+  }
+]
